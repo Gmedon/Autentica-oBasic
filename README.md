@@ -1,6 +1,7 @@
-# ProjetoApiNode
+# ProjetoAuthNode
 
-<p>Neste projeto que desenvolvi, foi testados meus conhecimentos na montagem de um CRUD na API</p><br/>
+<p>Conforme o estudo de autenticação, aprendi a fazer a BasicAutentication. Assim consegui deixar rotas privadas podendo ser liberadas a partir de uma 
+determinada condição.</p><br/>
 <h3>Para rodar este projeto será necessario algumas ferramentas</h3><br/>
 
 Nodemon é Ts-Node - para instalação deles e bem simples <br/>
